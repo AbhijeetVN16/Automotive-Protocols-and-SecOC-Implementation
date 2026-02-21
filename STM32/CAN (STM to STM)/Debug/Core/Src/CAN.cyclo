@@ -1,0 +1,6 @@
+../Core/Src/CAN.c:8:6:ancit_can_start	2
+../Core/Src/CAN.c:28:6:ancit_can_init_rx_filter	2
+../Core/Src/CAN.c:52:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+../Core/Src/CAN.c:64:6:ancit_can_check_for_rx	3
+../Core/Src/CAN.c:77:6:ancit_can_tx_message	2
+../Core/Src/CAN.c:95:6:ancit_can_wait_for_switch_press	4

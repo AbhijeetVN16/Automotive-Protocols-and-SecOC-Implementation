@@ -1,0 +1,106 @@
+MCMCAN.o :	../MCMCAN.c
+../MCMCAN.c :
+MCMCAN.o :	..\MCMCAN.h
+..\MCMCAN.h :
+MCMCAN.o :	"C:\Infineon\AURIX-Studio-1.10.10\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h"
+"C:\Infineon\AURIX-Studio-1.10.10\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h" :
+MCMCAN.o :	"C:\Infineon\AURIX-Studio-1.10.10\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h"
+"C:\Infineon\AURIX-Studio-1.10.10\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h" :
+MCMCAN.o :	"C:\Infineon\AURIX-Studio-1.10.10\tools\Compilers\Tasking_1.1r8\ctc\include\string.h"
+"C:\Infineon\AURIX-Studio-1.10.10\tools\Compilers\Tasking_1.1r8\ctc\include\string.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Cpu\\Std\Ifx_Types.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Cpu\\Std\Ifx_Types.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Platform\Tricore\Compilers\Compilers.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Configurations\Ifx_Cfg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Configurations\Ifx_Cfg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Platform\Tricore\Compilers\CompilerTasking.h" :
+MCMCAN.o :	"C:\Infineon\AURIX-Studio-1.10.10\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
+"C:\Infineon\AURIX-Studio-1.10.10\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Cpu\\Std\Platform_Types.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Cpu\\Std\Platform_Types.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Cpu\\Std\Ifx_TypesTasking.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Cpu\\Std\Ifx_TypesTasking.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Can\\Can\IfxCan_Can.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Can\\Can\IfxCan_Can.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Can\Std\IfxCan.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Can\Std\IfxCan.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxCan_cfg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxCan_cfg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Cpu\Std\Ifx_Types.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Cpu\Std\Ifx_Types.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxCan_reg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxCan_reg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxCan_regdef.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxCan_regdef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\Ifx_TypesReg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\Ifx_TypesReg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Service\\CpuGeneric\_Utilities\Ifx_Assert.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_PinMap\IfxCan_PinMap.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_PinMap\IfxCan_PinMap.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Port\Std\IfxPort.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Port\Std\IfxPort.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxPort_cfg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxPort_cfg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxPort_reg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxPort_reg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxPort_regdef.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxPort_regdef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Scu\Std\IfxScuWdt.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Scu\Std\IfxScuWdt.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxScu_cfg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxScu_cfg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxScu_bf.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxScu_bf.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxScu_reg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxScu_reg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxScu_regdef.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxScu_regdef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Scu\Std\IfxScuWdt.asm.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Scu\Std\IfxScuWdt.asm.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Scu\Std\IfxScuCcu.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Scu\Std\IfxScuCcu.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Cpu\Std\IfxCpu.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Cpu\Std\IfxCpu.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxCpu_cfg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxCpu_cfg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxCpu_reg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxCpu_reg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxCpu_regdef.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxCpu_regdef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxSrc_reg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxSrc_reg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxSrc_regdef.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxSrc_regdef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxStm_reg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxStm_reg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxStm_regdef.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxStm_regdef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Scu\Std\IfxScuCcu.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Scu\Std\IfxScuCcu.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_PinMap\IfxScu_PinMap.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_PinMap\IfxScu_PinMap.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxSmu_reg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxSmu_reg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxSmu_regdef.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxSmu_regdef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxDmu_reg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxDmu_reg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxDmu_regdef.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\Infra\\Sfr\\TC39B\\_Reg\IfxDmu_regdef.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Src\Std\IfxSrc.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\Src\Std\IfxSrc.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxSrc_cfg.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\_Impl\IfxSrc_cfg.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Can\\Std\IfxCan.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Can\\Std\IfxCan.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Cpu\\Irq\IfxCpu_Irq.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Cpu\\Irq\IfxCpu_Irq.h" :
+MCMCAN.o :	"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Port\\Std\IfxPort.h"
+"C:\\Users\\abhij\\AURIX-v1.10.10-workspace\\CAN_TX\\Libraries\\iLLD\\TC39B\\Tricore\\Port\\Std\IfxPort.h" :

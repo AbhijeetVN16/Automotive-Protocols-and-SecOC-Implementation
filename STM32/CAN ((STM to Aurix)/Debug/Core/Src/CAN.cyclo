@@ -1,0 +1,2 @@
+../Core/Src/CAN.c:26:6:can_send_message	2
+../Core/Src/CAN.c:49:13:can_set_data	1
